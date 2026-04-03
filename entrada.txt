@@ -1,0 +1,7 @@
+# Formato: ID Chegada CPU Prioridade [IO_Disparo IO_Duracao]
+# Prio: menor numero = maior prioridade
+P1 0 10 3
+P2 2 5 1 2 5
+P3 3 7 2
+P4 5 4 4 1 3
+P5 10 6 2
