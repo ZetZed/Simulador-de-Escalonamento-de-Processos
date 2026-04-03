@@ -10,11 +10,16 @@ Mestrando em Computação Aplicada/ Sistemas Operacionais
 ---
 
 ## 🚀 Como Executar
+Nao e necessario instalar nada alem do Java. O projeto ja vem com scripts de automacao para qualquer sistema.
 
-Nao é necessario instalar nada além do Java. O projeto ja vem com um script de automação.
-
-1. Garanta que o **JDK 17** (ou superior) esteja no PATH do seu sistema.
+### 🪟 Windows
+1. Garanta que o **JDK 17** (ou superior) esteja no PATH.
 2. De um duplo clique no arquivo: `executar.bat`
+
+### 🐧 Linux / 🍎 macOS
+1. Abra o terminal na pasta do projeto.
+2. Dê permissão de execução: `chmod +x executar.sh`
+3. Rode o script: `./executar.sh`
 
 O script ira compilar as fontes e abrir a interface gráfica. O terminal será fechado automaticamente após o lançamento.
 
@@ -46,6 +51,8 @@ O script ira compilar as fontes e abrir a interface gráfica. O terminal será f
 - `src/`: Códigos-fonte Java.
 - `bin/`: Arquivos compilados (.class).
 - `exports/`: Pasta onde são salvas as imagens exportadas.
+- `executar.bat`: Script de inicialização para Windows.
+- `executar.sh`: Script de inicialização para Linux/macOS.
 - `README.md`: Este guia de uso.
 - `t1.pdf`: Enunciado dos requisitos do trabalho.
 
