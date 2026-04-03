@@ -5,6 +5,8 @@ Este projeto e um simulador de escalonamento de processos desenvolvido para a di
 ## 👤 Desenvolvedor
 
 **Diego Rodrigues de Souza Arimura**
+
+
 Mestrando em Computação Aplicada/ Sistemas Operacionais
 
 ---
